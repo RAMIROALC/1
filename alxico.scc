@@ -1,8 +1,8 @@
 h1 {
     font-size: 30px;
-    color: blue
+    color: yellow
     }
     .resultado {
-    color:red;
+    color: green;
     font-weight: bold
     }
